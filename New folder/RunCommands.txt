@@ -1,0 +1,2 @@
+1. ./sbin/start-all.sh
+2. ./bin/spark-submit try.py

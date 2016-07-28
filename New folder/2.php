@@ -1,0 +1,1 @@
+http://dev.markitondemand.com/Api/v2/Quote?symbol=googl
